@@ -65,3 +65,11 @@ opacity:1;
 }
 
 }
+.header-stoic {
+    text-align: center;
+    padding: 20px;
+}
+
+.header-stoic img {
+    width: 250px;
+}
